@@ -1,8 +1,8 @@
 # CS50's Web Programming with Python and JavaScript
 
-**Student Name:** Esianyo Dzisenu
+**Student Name:** Veronica Akosua Afriyie Gyasi
 
-**Date of Commencement:** 19th September, 2023.
+**Date of Commencement:** 5th November, 2023.
 
 ---
 
@@ -32,10 +32,10 @@ I will update this README and the repository as I make progress through the cour
 
 If you have any questions, suggestions, or just want to connect, you can reach me through any of the media below:
 
-[Email](mailto:esianicd@gmail.com) | 
-[LinkedIn](https://www.linkedin.com/in/esianyo) |
-[Facebook](https://www.facebook.com/esianyod) |
-[Instagram](https://www.instagram.com/esianyo__) |
-[X](https://www.x.com/esianyo__)
+[Email](mailto:veronicagyasi@gmail.com) | 
+[LinkedIn](https://www.linkedin.com/in/veronica-gyasi-5353a51a2) |
+[Facebook](https://www.facebook.com/veronica.gyasi.3) |
+[Instagram](https://www.instagram.com/gyasi222) |
+[X](https://www.x.com/vee_gyasi)
 
 Happy coding!
